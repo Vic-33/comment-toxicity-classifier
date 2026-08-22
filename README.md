@@ -6,6 +6,7 @@ comments** (4 classes) from comment text plus structured metadata, built entirel
 networks / deep learning.
 
 **Author:** K Balvivek Reddy · balvivekreddy33@gmail.com
+
 **Competition:** `comment-category-prediction-challenge` (Private Kaggle Challenge)
 
 ## Problem Statement
